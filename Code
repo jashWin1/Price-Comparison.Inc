@@ -1,0 +1,28 @@
+print("Hello!") 
+
+username=(input("Please choose a username:"))
+if username=="Jashwin123":
+    print("username already taken")
+    username=(input("Please choose another username:"))
+if username=="Jashwin123":
+    username=("I'm an idiot who can't follow instructions")
+
+print("Welcome to Price Comparison.Inc",username+"!")
+item=(input("What item are you looking to buy:"))
+cost=float((input("what is the cost of the "+item+" :")))
+
+percent_discount=float(input("What is the percent discount you are getting?"))/100
+dollar_discount=float(input("What is the dollar discount you are getting?"))
+
+float(cost*percent_discount)
+float(cost-dollar_discount) 
+best_discount=max(cost*percent_discount,dollar_discount)
+
+if (cost*percent_discount)>dollar_discount:
+    better_deal="percent discount"
+else:
+        better_deal="dollar discount"
+if(cost*percent_discount)==dollar_discount:
+    print("you get the same amount of discount from both!")
+else: 
+    print("You get more of a discount from the",better_deal+"!")  
