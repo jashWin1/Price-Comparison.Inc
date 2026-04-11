@@ -26,4 +26,9 @@ How to use variables and input,
 How to compare values in Python, and
 How to build a simple interactive program
 
-This project was created as part of my learning journey in Python during my 8th grade spring break! I overall had a lot of fun coding and messing around with the program. For example, I used an if statment if the user entered the username "Jashwin123" it would tell them the username was already taken and to select a new one if they typed it in again it would name them "I'm an idiot who can't follow instructions"!
+About This Project:
+
+This project was created during my 8th grade spring break as part of my learning journey in Python. I had a lot of fun coding and experimenting with different features.
+For example, I added a username check where if the user enters "Jashwin123", the program tells them the username is already taken and asks them to choose another one. If they enter it again, the program responds with "Bruh… I said pick a different username 😂" and assigns them the username "Noname".
+
+This project helped me practice problem-solving, user interaction, and adding personality to my programs.
