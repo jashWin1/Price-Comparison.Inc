@@ -1,5 +1,5 @@
 # Price Comparison Program
-This is aPython program that helps users decide which discount is better when they are buying an item.
+This is a Python program that helps users decide which discount is better when they are buying an item.
 
 The program asks the user for:
 
