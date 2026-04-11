@@ -5,8 +5,9 @@ if username=="Jashwin123":
     print("username already taken")
     username=(input("Please choose another username:"))
 if username=="Jashwin123":
-    username=("I'm an idiot who can't follow instructions")
-
+    print("Bruh… I said pick a different username 😂")
+    username=("No_Name")
+    
 print("Welcome to Price Comparison.Inc",username+"!")
 item=(input("What item are you looking to buy:"))
 cost=float((input("what is the cost of the "+item+" :")))
