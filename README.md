@@ -1,4 +1,4 @@
-# Price Comparison Program
+# Price-Comparison.inc 
 This is a Python program that helps users decide which discount is better when they are buying an item.
 
 The program asks the user for:
