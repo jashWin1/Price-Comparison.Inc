@@ -1,5 +1,5 @@
 # Price Comparison Program
-This is a beginner Python program that helps users decide which discount is better when buying an item.
+This is aPython program that helps users decide which discount is better when they are buying an item.
 
 The program asks the user for:
 
@@ -11,24 +11,34 @@ The program asks the user for:
 
 4. A dollar discount
    
+   
 It then compares both discounts and tells the user which one saves more money.
 
-Features:
 
-User input and interaction,
-Basic math calculations,
-Conditional statements (if/else), and
-Simple decision making.
+The features include:
+
+
+1. User input and interaction
+
+2. Basic math calculations
+
+3. Conditional statements (if/else) 
+
+4. Simple decision making.
+   
 
 What I Learned:
 
-How to use variables and input,
-How to compare values in Python, and
-How to build a simple interactive program
+
+1. How to use variables and the input function,
+
+2. How to compare values in Python, and
+   
+3. How to build a simple interactive program using Python
 
 About This Project:
 
-This project was created during my 8th grade spring break as part of my learning journey in Python. I had a lot of fun coding and experimenting with different features.
-For example, I added a username check where if the user enters "Jashwin123", the program tells them the username is already taken and asks them to choose another one. If they enter it again, the program responds with "Bruh… I said pick a different username 😂" and assigns them the username "Noname".
+I created this project during my 8th grade spring break as part of my journey in learning Python. I had a lot of fun coding and experimenting with different features.
+For example, I added a username check where if the user enters "Jashwin123", the program tells them the username is already taken and asks them to choose another one. If they enter it again, the program responds with "Bruh… I said pick a different username 😂" and assigns them the username "No_Name".
 
-This project helped me practice problem-solving, user interaction, and adding personality to my programs.
+This project helped me practice problem-solving, user interaction, and adding my own personality to my programs.
