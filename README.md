@@ -24,7 +24,7 @@ The features of this program include:
 
 3. If/else statments
 
-4. ans some simple decision making.
+4. Some simple decision making.
    
 
 What I learnt while coding:
@@ -32,9 +32,9 @@ What I learnt while coding:
 
 1. How to use variables and the input function
 
-2. How to compare values in Python 
+2. How to be able to compare values 
    
-3. How to build an interactive program using Python
+3. How to build an interactive program 
 
 About This Project:
 
